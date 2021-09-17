@@ -1,0 +1,19 @@
+version: "3"
+services:
+  client:
+    build: ./services/client
+    ports:
+      - "80:80"
+    container_name: gallery-client
+  db:
+    image: mongo
+    ports:
+      - "27017:27017"
+    container_name: gallery-db
+  api:
+    build: ./services/api
+    ports:
+      - "3000:3000"
+    depends_on:
+      - db
+    container_name: gallery-api
