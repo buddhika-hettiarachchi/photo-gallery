@@ -17,37 +17,35 @@ I utilized https://i.ibb.co to store photos and also to fetch them.
 
 ```json
 {
-    "id": 2270,
-    "code": "CHhASmTpKjaHyAsSaauThRqMMjWanYkQ",
-    "startDate": 1578391244,
-    "endDate": null,
-    "author": {
-        "id": "101",
-        "createdAt": "2019-10-28 16:07:53",
-        "name": "John Doe",
-        "firstName": "John",
-        "lastName": "Doe",
-        "picture": "https://placeimg.com/640/640/people",
-        "source": "Facebook",
-        "lang": "eu",
-        "country": "eu",
-        "sourceId": "101030302",
-        "email": "help@pastbook.com"
-    },
-    "cover": "https://placeimg.com/2560/2560/any",
-    "is_shareable": true,
-    "entries": [
-        {
-            "id": 204900001,
-            "message": "",
-            "picture": "https://placeimg.com/2560/2560/any",
-            "pictureSmall": "",
-            "pictureMedium": "",
-            "pictureStored": "",
-            "timestamp": 1578391381
-        },
-
-        ...
+	"id": 2270,
+	"code": "CHhASmTpKjaHyAsSaauThRqMMjWanYkQ",
+	"startDate": 1578391244,
+	"endDate": null,
+	"author": {
+		"id": "101",
+		"createdAt": "2019-10-28 16:07:53",
+		"name": "John Doe",
+		"firstName": "John",
+		"lastName": "Doe",
+		"picture": "https://placeimg.com/640/640/people",
+		"source": "Facebook",
+		"lang": "eu",
+		"country": "eu",
+		"sourceId": "101030302",
+		"email": "help@pastbook.com"
+	},
+	"cover": "https://placeimg.com/2560/2560/any",
+	"is_shareable": true,
+	"entries": [{
+		"id": 204900037,
+		"message": "",
+		"picture": "https://placeimg.com/2560/2560/any",
+		"pictureSmall": "",
+		"pictureMedium": "",
+		"pictureStored": "",
+		"timestamp": 1578391381
+	}]
+}
 
 ```
 
@@ -55,39 +53,35 @@ I utilized https://i.ibb.co to store photos and also to fetch them.
 
 ```json
 {
-   
-{
-  "id": 2270,
-  "code": "CHhASmTpKjaHyAsSaauThRqMMjWanYkQ",
-  "startDate": 1578391244,
-  "endDate": null,
-  "author": {
-    "id": "101",
-    "createdAt": "2019-10-28 16:07:53",
-    "name": "John Doe",
-    "firstName": "John",
-    "lastName": "Doe",
-    "picture": "https://placeimg.com/640/640/people",
-    "source": "Facebook",
-    "lang": "eu",
-    "country": "eu",
-    "sourceId": "101030302",
-    "email": "help@pastbook.com"
-  },
-  "cover": "https://placeimg.com/2560/2560/any",
-  "is_shareable": true,
-  "entries": [
-    {
-      "id": "KKV8bt4",
-      "message": "",
-      "picture": "https://i.ibb.co",
-      "pictureSmall": "",
-      "pictureMedium": "",
-      "pictureStored": "",
-      "timestamp": 1578391381
-    },
-    
-    ...
+	"id": 2270,
+	"code": "CHhASmTpKjaHyAsSaauThRqMMjWanYkQ",
+	"startDate": 1578391244,
+	"endDate": null,
+	"author": {
+		"id": "101",
+		"createdAt": "2019-10-28 16:07:53",
+		"name": "John Doe",
+		"firstName": "John",
+		"lastName": "Doe",
+		"picture": "https://placeimg.com/640/640/people",
+		"source": "Facebook",
+		"lang": "eu",
+		"country": "eu",
+		"sourceId": "101030302",
+		"email": "help@pastbook.com"
+	},
+	"cover": "https://placeimg.com/2560/2560/any",
+	"is_shareable": true,
+	"entries": [{
+		"id": "KKV8bt4",
+		"message": "",
+		"picture": "https://i.ibb.co",
+		"pictureSmall": "",
+		"pictureMedium": "",
+		"pictureStored": "",
+		"timestamp": 1578391381
+	}]
+}
 
 ```
 
