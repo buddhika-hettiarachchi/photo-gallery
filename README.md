@@ -116,7 +116,7 @@ See docker-compose.yml file
 
 ### 1. Clone From Github
 
-`git clone git@github.com:hpbuddhika/photo-gallery.git`
+`git clone https://github.com/hpbuddhika/photo-gallery.git`
 
 ### 2. Build image
 
