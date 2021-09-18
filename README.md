@@ -96,6 +96,8 @@ I utilized https://i.ibb.co to store photos and also to fetch them.
 
 * [Docker](https://www.docker.com)
 * [Docker-Compose](https://docs.docker.com/compose/)
+
+Unrecommended: Using on Windows Machine
   
 
 ## Container Architecture
